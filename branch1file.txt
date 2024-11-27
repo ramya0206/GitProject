@@ -1,1 +1,1 @@
-"File created in branch1" 
+"Change from branch2" 
